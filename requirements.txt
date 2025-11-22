@@ -1,2 +1,14 @@
-python-telegram-bot==20.7
-Flask
+# Telegram Bot
+python-telegram-bot==20.6
+
+# Async HTTP requests (if needed)
+aiohttp==3.9.5
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Optional: For logging or better debugging
+loguru==0.7.2
+
+# Optional: If you use SQLite or DB
+aiosqlite==0.20.0
