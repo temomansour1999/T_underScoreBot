@@ -1,6 +1,9 @@
 # Telegram Bot
 python-telegram-bot==20.6
 
+# Flask
+Flask==2.3.5
+
 # Async HTTP requests (if needed)
 aiohttp==3.9.5
 
